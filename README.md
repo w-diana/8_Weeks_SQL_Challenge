@@ -1,6 +1,6 @@
 # 8_Weeks_SQL_Challenge
 
-This project aims to solve and document each cases studies in the 8 week SQL challenge by Danny Ma https://8weeksqlchallenge.com/. Each case study deals with real life business data tasks that will help improve my knowledge and skills in SQL.
+This project aims to solve and document each cases studies in the 8-week SQL challenge by Danny Ma https://8weeksqlchallenge.com/. Each case study deals with real-life business data tasks that will help improve my knowledge and skills in SQL.
 
 Case study #1: Danny's Diner: https://8weeksqlchallenge.com/case-study-1/
 
@@ -17,3 +17,7 @@ Case study #6: Clique Bait: https://8weeksqlchallenge.com/case-study-6/
 Case study #7: Balanced Tree Clothing Company: https://8weeksqlchallenge.com/case-study-7/ 
 
 Case study #8: Fresh Segments: https://8weeksqlchallenge.com/case-study-8/
+
+<p align="center">
+  <img src="https://github.com/w-diana/8_Weeks_SQL_Challenge/blob/main/under_construction.jpeg" width="700">
+</p>
